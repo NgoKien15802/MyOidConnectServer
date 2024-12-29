@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OidcWebClient", "OidcWebClient\OidcWebClient.csproj", "{D8E86B66-FE7E-4AF0-B2C8-8E86B266AD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OidcServer", "OidcServer\OidcServer.csproj", "{40C430B0-71B1-40D9-93E4-18C2CC1F2B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E86B66-FE7E-4AF0-B2C8-8E86B266AD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E86B66-FE7E-4AF0-B2C8-8E86B266AD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E86B66-FE7E-4AF0-B2C8-8E86B266AD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E86B66-FE7E-4AF0-B2C8-8E86B266AD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C430B0-71B1-40D9-93E4-18C2CC1F2B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C430B0-71B1-40D9-93E4-18C2CC1F2B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C430B0-71B1-40D9-93E4-18C2CC1F2B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C430B0-71B1-40D9-93E4-18C2CC1F2B51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A89F83-F716-4683-A08B-5C46A8D39FFC}
+	EndGlobalSection
+EndGlobal
